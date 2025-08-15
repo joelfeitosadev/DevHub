@@ -6,6 +6,11 @@
 
 Um protótipo de interface para o "DevHub", um conceito de feed de rede social focado na comunidade de desenvolvedores. Este projeto foi criado como um estudo prático para aplicar e demonstrar habilidades avançadas em desenvolvimento front-end, incluindo a customização de frameworks, automação de deploy e criação de layouts complexos e responsivos.
 
+
+## 🖥️ Demonstração
+
+![Screenshot do DevHub](screenshot.png)
+
 ## ✨ Funcionalidades Principais
 
 * **Tema Dark por Padrão:** Interface moderna e confortável para os olhos, utilizando o sistema de temas do Bootstrap.
